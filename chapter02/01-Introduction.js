@@ -11,3 +11,4 @@ averageTemp[2] = 42.4;
 averageTemp[3] = 52;
 averageTemp[4] = 60.8;
 var test = 1;
+var test = 1;
